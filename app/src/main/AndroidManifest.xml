@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wesleymoy.processspam">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".AbstractMainActivity$MainActivity0"
+            android:process=":process0">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AbstractMainActivity$MainActivity1"
+            android:process=":process1" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity2"
+            android:process=":process2" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity3"
+            android:process=":process3" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity4"
+            android:process=":process4" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity5"
+            android:process=":process5" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity6"
+            android:process=":process6" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity7"
+            android:process=":process7" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity8"
+            android:process=":process8" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity9"
+            android:process=":process9" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity10"
+            android:process=":process10" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity11"
+            android:process=":process11" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity12"
+            android:process=":process12" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity13"
+            android:process=":process13" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity14"
+            android:process=":process14" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity15"
+            android:process=":process15" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity16"
+            android:process=":process16" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity17"
+            android:process=":process17" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity18"
+            android:process=":process18" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity19"
+            android:process=":process19" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity20"
+            android:process=":process20" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity21"
+            android:process=":process21" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity22"
+            android:process=":process22" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity23"
+            android:process=":process23" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity24"
+            android:process=":process24" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity25"
+            android:process=":process25" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity26"
+            android:process=":process26" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity27"
+            android:process=":process27" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity28"
+            android:process=":process28" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity29"
+            android:process=":process29" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity30"
+            android:process=":process30" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity31"
+            android:process=":process31" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity32"
+            android:process=":process32" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity33"
+            android:process=":process33" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity34"
+            android:process=":process34" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity35"
+            android:process=":process35" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity36"
+            android:process=":process36" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity37"
+            android:process=":process37" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity38"
+            android:process=":process38" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity39"
+            android:process=":process39" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity40"
+            android:process=":process40" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity41"
+            android:process=":process41" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity42"
+            android:process=":process42" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity43"
+            android:process=":process43" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity44"
+            android:process=":process44" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity45"
+            android:process=":process45" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity46"
+            android:process=":process46" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity47"
+            android:process=":process47" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity48"
+            android:process=":process48" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity49"
+            android:process=":process49" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity50"
+            android:process=":process50" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity51"
+            android:process=":process51" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity52"
+            android:process=":process52" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity53"
+            android:process=":process53" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity54"
+            android:process=":process54" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity55"
+            android:process=":process55" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity56"
+            android:process=":process56" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity57"
+            android:process=":process57" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity58"
+            android:process=":process58" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity59"
+            android:process=":process59" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity60"
+            android:process=":process60" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity61"
+            android:process=":process61" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity62"
+            android:process=":process62" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity63"
+            android:process=":process63" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity64"
+            android:process=":process64" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity65"
+            android:process=":process65" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity66"
+            android:process=":process66" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity67"
+            android:process=":process67" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity68"
+            android:process=":process68" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity69"
+            android:process=":process69" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity70"
+            android:process=":process70" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity71"
+            android:process=":process71" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity72"
+            android:process=":process72" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity73"
+            android:process=":process73" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity74"
+            android:process=":process74" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity75"
+            android:process=":process75" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity76"
+            android:process=":process76" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity77"
+            android:process=":process77" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity78"
+            android:process=":process78" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity79"
+            android:process=":process79" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity80"
+            android:process=":process80" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity81"
+            android:process=":process81" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity82"
+            android:process=":process82" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity83"
+            android:process=":process83" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity84"
+            android:process=":process84" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity85"
+            android:process=":process85" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity86"
+            android:process=":process86" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity87"
+            android:process=":process87" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity88"
+            android:process=":process88" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity89"
+            android:process=":process89" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity90"
+            android:process=":process90" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity91"
+            android:process=":process91" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity92"
+            android:process=":process92" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity93"
+            android:process=":process93" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity94"
+            android:process=":process94" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity95"
+            android:process=":process95" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity96"
+            android:process=":process96" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity97"
+            android:process=":process97" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity98"
+            android:process=":process98" />
+        <activity
+            android:name=".AbstractMainActivity$MainActivity99"
+            android:process=":process99" />
+    </application>
+
+</manifest>
